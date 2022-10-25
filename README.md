@@ -1,6 +1,6 @@
 # Jan Queralt Posino
 
-Foobar is a Python library for dealing with word pluralization.
+El meu nom es Jan Queralt Posino, estic cursant 1r de Sistemes microinformàtics i xarxes (2022-23) al Ilerna.
 
 ## Installation
 
