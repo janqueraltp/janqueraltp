@@ -1,4 +1,4 @@
-# Foobar
+# Jan Queralt Posino
 
 Foobar is a Python library for dealing with word pluralization.
 
